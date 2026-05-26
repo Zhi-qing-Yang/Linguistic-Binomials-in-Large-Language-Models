@@ -1,0 +1,76 @@
+Binomial_ID,Language,A_en,B_en,A_id,B_id,A_B_count,B_A_count,Order_preference,Preferred_conjunction,p_corpus,evidence_tier
+1,id,love,hate,cinta,benci,1258,403,cinta dan benci,dan,0.7572,weak
+2,id,sun,moon,matahari,bulan,6484,2939,matahari dan bulan,dan,0.6881,medium
+3,id,men,women,pria,wanita,66156,11564,pria dan wanita,dan,0.8512,strong
+4,id,wind,rain,angin,hujan,2038,5256,hujan dan angin,dan,0.2794,medium
+5,id,birth,death,kelahiran,kematian,3392,428,kelahiran dan kematian,dan,0.8879,weak
+6,id,east,west,timur,barat,11545,10703,timur dan barat,dan,0.5189,strong
+7,id,push,pull,dorong,tarik,188,144,dorong dan tarik,dan,0.5661,weak
+8,id,up,down,naik,turun,59513,6184,naik turun,,0.9059,strong
+9,id,iron,steel,besi,baja,19660,1675,besi baja,,0.9215,strong
+10,id,day,night,siang,malam,38780,3633,siang dan malam,dan,0.9143,strong
+11,id,fire,water,api,air,1142,1249,air dan api,dan,0.4776,weak
+12,id,rich,poor,kaya,miskin,6569,1452,kaya dan miskin,dan,0.8189,medium
+13,id,young,old,muda,tua,2697,6885,tua dan muda,dan,0.2815,medium
+14,id,war,peace,perang,damai,597,277,perang dan damai,dan,0.6829,weak
+15,id,hot,cold,panas,dingin,15974,3580,panas dan dingin,dan,0.8169,strong
+16,id,north,south,utara,selatan,14621,3285,utara dan selatan,dan,0.8165,medium
+17,id,truth,lies,kebenaran,kebohongan,265,58,kebenaran dan kebohongan,dan,0.8194,weak
+18,id,body,soul,tubuh,jiwa,3448,934,tubuh dan jiwa,dan,0.7868,medium
+19,id,time,space,waktu,ruang,3749,24025,ruang dan waktu,dan,0.135,strong
+20,id,cat,mouse,kucing,tikus,863,376,kucing dan tikus,dan,0.6964,weak
+21,id,health,illness,kesehatan,penyakit,2439,844,kesehatan dan penyakit,dan,0.7428,weak
+22,id,in,out,masuk,keluar,31778,54203,keluar masuk,,0.3696,strong
+23,id,students,teachers,siswa,guru,23955,38536,guru dan siswa,dan,0.3833,strong
+24,id,eat,drink,makan,minum,59893,2617,makan dan minum,dan,0.9581,strong
+25,id,fruit,vegetable,buah,sayur,30290,24156,buah dan sayur,dan,0.5563,strong
+26,id,tea,coffee,teh,kopi,8603,10744,kopi dan teh,dan,0.4447,medium
+27,id,black,white,hitam,putih,51200,7392,hitam putih,,0.8738,strong
+28,id,mom,dad,ibu,ayah,10514,29979,ayah dan ibu,dan,0.2597,strong
+29,id,left,right,kiri,kanan,49632,53137,kanan dan kiri,dan,0.4829,strong
+30,id,friends,enemies,teman,musuh,630,200,teman atau musuh,atau,0.7587,weak
+31,id,pen,paper,pena,kertas,980,589,pena dan kertas,dan,0.6245,weak
+32,id,red,black,merah,hitam,7655,5140,merah dan hitam,dan,0.5983,medium
+33,id,family,friends,keluarga,teman,19007,25556,teman dan keluarga,dan,0.4265,strong
+34,id,song,dance,lagu,tarian,737,421,lagu dan tarian,dan,0.6363,weak
+35,id,buy,sell,beli,jual,4228,248524,jual beli,,0.0167,strong
+36,id,king,queen,raja,ratu,7138,828,raja dan ratu,dan,0.896,medium
+37,id,sweet,sour,manis,asam,2709,9536,asam manis,,0.2213,medium
+38,id,more,less,lebih,kurang,80234,449249,kurang lebih,,0.1515,strong
+39,id,sooner,later,cepat,lambat,16892,838,cepat atau lambat,atau,0.9527,medium
+40,id,host,guest,tuan rumah,tamu,258,229,tuan rumah dan tamu,dan,0.5297,weak
+41,id,hunger,thirst,lapar,haus,7435,3299,lapar dan haus,dan,0.6926,medium
+42,id,urban,rural,perkotaan,pedesaan,2434,2853,pedesaan dan perkotaan,dan,0.4604,medium
+43,id,life,work,kehidupan,pekerjaan,1252,2815,pekerjaan dan kehidupan,dan,0.3079,medium
+44,id,law,order,hukum,ketertiban,1289,693,hukum dan ketertiban,dan,0.6503,weak
+45,id,old,new,lama,baru,7926,3732,lama dan baru,dan,0.6799,medium
+46,id,eye,ear,mata,telinga,5394,794,mata dan telinga,dan,0.8716,medium
+47,id,major,minor,mayor,minor,962,234,mayor dan minor,dan,0.8041,weak
+48,id,ice,fire,es,api,279,292,api dan es,dan,0.4886,weak
+49,id,supply,demand,penawaran,permintaan,9492,13816,permintaan dan penawaran,dan,0.4072,strong
+50,id,husband,wife,suami,istri,154533,4393,suami istri,,0.9724,strong
+51,id,parents,children,orang tua,anak,16716,6628,orang tua dan anak,dan,0.7161,strong
+52,id,profit,loss,untung,rugi,9976,332,untung rugi,,0.9677,medium
+53,id,needle,thread,jarum,benang,769,738,jarum dan benang,dan,0.5103,weak
+54,id,virtue,vice,kebajikan,kejahatan,111,13,kebajikan dan kejahatan,dan,0.892,weak
+55,id,word,deed,kata,perbuatan,1555,45,kata dan perbuatan,dan,0.9716,weak
+56,id,church,state,gereja,negara,1237,604,gereja dan negara,dan,0.6718,weak
+57,id,angel,demon,malaikat,iblis,553,253,malaikat dan iblis,dan,0.6859,weak
+58,id,win,lose,menang,kalah,14481,5865,menang atau kalah,atau,0.7117,strong
+59,id,thunder,lightning,guntur,kilat,650,175,guntur dan kilat,dan,0.7875,weak
+60,id,domestic,foreign,dalam negeri,luar negeri,4004,943,dalam negeri dan luar negeri,dan,0.8093,medium
+61,id,near,far,dekat,jauh,1515,2347,jauh dekat,,0.3923,medium
+62,id,flesh,blood,daging,darah,1578,4564,darah daging,,0.257,medium
+63,id,sea,sky,laut,langit,520,500,laut dan langit,dan,0.5098,weak
+64,id,cheap,expensive,murah,mahal,1359,1484,mahal atau murah,atau,0.478,weak
+65,id,oil,gas,minyak,gas,57206,1846,minyak dan gas,dan,0.9687,strong
+66,id,teach,learn,mengajar,belajar,1150,140759,belajar mengajar,,0.0081,strong
+67,id,rise,fall,bangun,jatuh,56,10781,jatuh bangun,,0.0052,medium
+68,id,cause,effect,sebab,akibat,16208,322,sebab akibat,,0.9805,medium
+69,id,laugh,cry,tertawa,menangis,1054,857,tertawa dan menangis,dan,0.5515,weak
+70,id,heaven,earth,langit,bumi,27636,4866,langit dan bumi,dan,0.8503,strong
+71,id,right,wrong,benar,salah,17844,3390,benar atau salah,atau,0.8403,strong
+72,id,long,short,panjang,pendek,5483,3625,panjang dan pendek,dan,0.602,medium
+73,id,permitted,forbidden,halal,haram,8038,830,halal dan haram,dan,0.9064,medium
+74,id,come,go,datang,pergi,10611,373,datang dan pergi,dan,0.966,medium
+75,id,sweet,bitter,manis,pahit,1369,1718,pahit manis,,0.4435,weak

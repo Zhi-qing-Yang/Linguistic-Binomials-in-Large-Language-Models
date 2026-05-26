@@ -1,0 +1,76 @@
+Binomial_ID,Language,A_en,B_en,A_tr,B_tr,A_B_count,B_A_count,Order_preference,Preferred_conjunction,p_corpus,evidence_tier
+1,tr,love,hate,sevgi,nefret,868,123,sevgi ve nefret,ve,0.8755,weak
+2,tr,sun,moon,güneş,ay,5644,3449,güneş ve ay,ve,0.6207,strong
+3,tr,men,women,erkek,kadın,17105,57846,kadın erkek,,0.2282,strong
+4,tr,wind,rain,rüzgar,yağmur,542,566,yağmur ve rüzgar,ve,0.4892,medium
+5,tr,birth,death,doğum,ölüm,3328,422,doğum ve ölüm,ve,0.8874,medium
+6,tr,east,west,doğu,batı,22137,4921,doğu ve batı,ve,0.8181,strong
+7,tr,push,pull,itme,çekme,756,307,itme ve çekme,ve,0.711,weak
+8,tr,up,down,yukarı,aşağı,7139,51934,aşağı yukarı,,0.1209,strong
+9,tr,iron,steel,demir,çelik,24325,542,demir çelik,,0.9782,strong
+10,tr,day,night,gündüz,gece,7255,75900,gece gündüz,,0.0873,strong
+11,tr,fire,water,ateş,su,2625,1030,ateş ve su,ve,0.7181,medium
+12,tr,rich,poor,zengin,fakir,4881,889,zengin fakir,,0.8459,medium
+13,tr,young,old,genç,yaşlı,5099,1955,genç yaşlı,,0.7228,medium
+14,tr,war,peace,savaş,barış,3630,449,savaş ve barış,ve,0.8898,medium
+15,tr,hot,cold,sıcak,soğuk,13403,4854,sıcak ve soğuk,ve,0.7341,strong
+16,tr,north,south,kuzey,güney,15368,2702,kuzey ve güney,ve,0.8505,strong
+17,tr,truth,lies,doğru,yalan,439,266,doğru yalan,,0.6225,weak
+18,tr,body,soul,beden,ruh,5549,5348,beden ve ruh,ve,0.5092,strong
+19,tr,time,space,zaman,mekan,7505,960,zaman ve mekan,ve,0.8865,medium
+20,tr,cat,mouse,kedi,fare,949,136,kedi fare,,0.8743,weak
+21,tr,health,illness,sağlık,hastalık,516,470,sağlık ve hastalık,ve,0.5233,weak
+22,tr,in,out,içeri,dışarı,710,103,içeri ve dışarı,ve,0.8729,weak
+23,tr,students,teachers,öğrenciler,öğretmenler,1752,3051,öğretmenler ve öğrenciler,ve,0.3648,medium
+24,tr,eat,drink,yemek,içmek,3086,164,yemek içmek,,0.9494,medium
+25,tr,fruit,vegetable,meyve,sebze,24715,30075,sebze ve meyve,ve,0.4511,strong
+26,tr,tea,coffee,çay,kahve,14639,3153,çay ve kahve,ve,0.8228,strong
+27,tr,black,white,siyah,beyaz,42040,3647,siyah beyaz,,0.9202,strong
+28,tr,mom,dad,anne,baba,53712,1570,anne baba,,0.9716,strong
+29,tr,left,right,sol,sağ,5286,30051,sağ ve sol,ve,0.1496,strong
+30,tr,friends,enemies,dost,düşman,3441,273,dost düşman,,0.9264,medium
+31,tr,pen,paper,kalem,kağıt,1452,3149,kağıt kalem,,0.3156,medium
+32,tr,red,black,kırmızı,siyah,3657,2387,kırmızı ve siyah,ve,0.605,medium
+33,tr,family,friends,aile,arkadaşlar,368,295,aile ve arkadaşlar,ve,0.555,weak
+34,tr,song,dance,şarkı,dans,368,168,şarkı ve dans,ve,0.6862,weak
+35,tr,buy,sell,alım,satım,31051,84,alım satım,,0.9973,strong
+36,tr,king,queen,kral,kraliçe,1155,57,kral ve kraliçe,ve,0.9526,medium
+37,tr,sweet,sour,tatlı,ekşi,1006,265,tatlı ekşi,,0.7913,medium
+38,tr,more,less,çok,az,225940,59086,çok az,,0.7927,strong
+39,tr,sooner,later,er,geç,19525,13,er ya da geç,ya da,0.9993,strong
+40,tr,host,guest,ev sahibi,misafir,124,51,ev sahibi ve misafir,ve,0.7074,weak
+41,tr,hunger,thirst,açlık,susuzluk,1620,191,açlık ve susuzluk,ve,0.8943,medium
+42,tr,urban,rural,kentsel,kırsal,998,830,kentsel ve kırsal,ve,0.5459,medium
+43,tr,life,work,yaşam,iş,830,2447,iş ve yaşam,ve,0.2534,medium
+44,tr,law,order,kanun,nizam,644,19,kanun ve nizam,ve,0.9706,weak
+45,tr,old,new,eski,yeni,20075,3707,eski ve yeni,ve,0.8441,strong
+46,tr,eye,ear,göz,kulak,4877,322,göz kulak,,0.938,medium
+47,tr,major,minor,büyük,küçük,19783,14324,büyük küçük,,0.58,strong
+48,tr,ice,fire,buz,ateş,204,328,ateş ve buz,ve,0.3837,weak
+49,tr,supply,demand,arz,talep,10973,420,arz ve talep,ve,0.9631,strong
+50,tr,husband,wife,koca,karı,813,11047,karı koca,,0.0686,strong
+51,tr,parents,children,ebeveynler,çocuklar,465,269,ebeveynler ve çocuklar,ve,0.6333,weak
+52,tr,profit,loss,kâr,zarar,1320,44,kâr ve zarar,ve,0.9674,medium
+53,tr,needle,thread,iğne,iplik,900,45,iğne iplik,,0.9519,weak
+54,tr,virtue,vice,iyilik,kötülük,3844,283,iyilik ve kötülük,ve,0.9313,medium
+55,tr,word,deed,söz,eylem,463,194,söz ve eylem,ve,0.7044,weak
+56,tr,church,state,kilise,devlet,392,189,kilise ve devlet,ve,0.6744,weak
+57,tr,angel,demon,melek,şeytan,477,303,melek ve şeytan,ve,0.6114,weak
+58,tr,win,lose,kazanmak,kaybetmek,751,114,kazanmak ya da kaybetmek,ya da,0.8678,weak
+59,tr,thunder,lightning,gök gürültüsü,şimşek,128,91,gök gürültüsü ve şimşek,ve,0.5841,weak
+60,tr,domestic,foreign,yerli,yabancı,88864,2153,yerli ve yabancı,ve,0.9763,strong
+61,tr,near,far,yakın,uzak,4518,4031,yakın ve uzak,ve,0.5285,medium
+62,tr,flesh,blood,et,kan,242,126,et ve kan,ve,0.6572,weak
+63,tr,sea,sky,deniz,gökyüzü,208,187,deniz ve gökyüzü,ve,0.5265,weak
+64,tr,cheap,expensive,ucuz,pahalı,588,315,ucuz pahalı,,0.651,weak
+65,tr,oil,gas,petrol,gaz,6406,1974,petrol ve gaz,ve,0.7644,medium
+66,tr,teach,learn,öğretmek,öğrenmek,160,924,öğrenmek ve öğretmek,ve,0.1479,weak
+67,tr,rise,fall,yükseliş,düşüş,312,163,yükseliş ve düşüş,ve,0.6565,weak
+68,tr,cause,effect,neden,sonuç,3346,98,neden sonuç,,0.9714,medium
+69,tr,laugh,cry,gülmek,ağlamak,373,287,gülmek ve ağlamak,ve,0.5651,weak
+70,tr,heaven,earth,gök,yer,1616,8541,yer gök,,0.1591,strong
+71,tr,right,wrong,doğru,yanlış,13351,1488,doğru ya da yanlış,ya da,0.8997,strong
+72,tr,long,short,uzun,kısa,7273,12388,kısa ve uzun,ve,0.3699,strong
+73,tr,permitted,forbidden,helal,haram,3109,1757,helal ve haram,ve,0.6389,medium
+74,tr,come,go,gelmek,gitmek,73,162,gitmek gelmek,,0.3114,weak
+75,tr,sweet,bitter,tatlı,acı,593,4946,acı tatlı,,0.1071,medium
